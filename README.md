@@ -43,7 +43,7 @@ This smart system works in the following steps:
 - Button is connected with a 10kΩ pull-down resistor
 
 > 📸 *Circuit Schematic Preview:*  
-![Circuit](MotionControlledLED.png)
+![Circuit](MotionControlledLED.jpg)
 
 ---
 
