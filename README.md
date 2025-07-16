@@ -1,4 +1,4 @@
-# 🔌 Electronics – Smart Energy Saving Circuits
+# 🔌 1-MotionControlledLED
 
 This repository contains two separate circuits designed to demonstrate intelligent behavior for power efficiency and sensor applications using Arduino and basic electronic components.
 
