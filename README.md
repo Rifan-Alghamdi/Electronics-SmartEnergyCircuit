@@ -45,7 +45,7 @@ The circuit reacts with different colored LEDs and a buzzer depending on the rea
 
 | File Name         | Description                             |
 |-------------------|-----------------------------------------|
-| sensor_dual.ino | Arduino sketch with both sensors        |
+| analogdigitalsensors1.ino | Arduino sketch with both sensors        |
 | circuit_sensors.png | Screenshot from Tinkercad simulation |
 
 ---
