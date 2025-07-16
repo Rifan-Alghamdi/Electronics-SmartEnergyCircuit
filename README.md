@@ -1,4 +1,4 @@
-# Analog and Digital Sensors – Electronics Track
+# Analog and Digital Sensors 
 
 ![Circuit Screenshot](circuit_sensors.jpg)
 
