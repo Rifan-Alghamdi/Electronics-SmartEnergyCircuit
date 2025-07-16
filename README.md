@@ -1,10 +1,10 @@
-# 🔌 1-MotionControlledLED
+# 🔌# 🔌 Electronics – Smart Energy Saving Circuits
 
 This repository contains two separate circuits designed to demonstrate intelligent behavior for power efficiency and sensor applications using Arduino and basic electronic components.
 
 ## 🧠 Contents
 
-# 1️⃣ [Motion-Controlled LED System](./Task1-MotionControlledLED)
+# 1️⃣ [Motion-Controlled LED System](./1-MotionControlledLED)
 - A system that detects motion using a PIR sensor and powers off automatically after a short timeout to conserve energy.
 
 ## 🔌 Circuit Overview
