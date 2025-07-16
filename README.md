@@ -27,5 +27,6 @@ This task compares how analog and digital sensors behave in response to stimuli.
 - Digital sensor behavior (simple ON/OFF threshold logic).
 
 > 🔍 Purpose: Understand how Arduino reads and differentiates between analog and digital signals.
-
+📸 Circuit Preview  
+![Circuit](AnalogDigitalSensors.png)
 ---
