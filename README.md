@@ -1,17 +1,31 @@
 # 🔌 Electronics – Smart Energy Saving Circuits
 
-This repository contains two separate circuits designed to demonstrate intelligent behavior for power efficiency and sensor applications using Arduino and basic electronic components.
+This repository contains two Arduino-based circuits demonstrating smart energy-saving behavior and sensor-based control logic. Each circuit is designed with simplicity and practical application in mind.
 
-## 🧠 Contents
+---
 
-# 1️⃣ 
-- [ Motion Controlled LED](./MotionControlledLED/)
-- A system that detects motion using a PIR sensor and powers off automatically after a short timeout to conserve energy.
+## 📦 Project Structure
 
-## 🔌 Circuit Overview
+### 1️⃣ [Motion-Controlled LED System](./MotionControlledLED)
+A motion-activated LED system using a PIR sensor and manual activation button. The LED:
 
-![Circuit](MotionControlledLED.png)
+- Turns ON for 7 seconds upon pressing the button.
+- Remains ON if motion is detected.
+- Blinks 3 times and powers down when motion is no longer detected.
 
+> ⚡ Purpose: Demonstrates intelligent power control using motion sensing.
 
-# 2️⃣ [Analog and Digital Sensors Simulation](./Task2-AnalogAndDigitalSensors)
-- Demonstrates the difference in behavior between analog and digital sensors with simple output indicators (LEDs).
+📸 Circuit Preview  
+![Circuit](MotionControlledLED.jpg)
+
+---
+
+### 2️⃣ [Analog and Digital Sensors Simulation](./AnalogAndDigitalSensors)
+This task compares how analog and digital sensors behave in response to stimuli. Each sensor controls an LED to demonstrate:
+
+- Analog sensor behavior (e.g., variable light intensity or range detection).
+- Digital sensor behavior (simple ON/OFF threshold logic).
+
+> 🔍 Purpose: Understand how Arduino reads and differentiates between analog and digital signals.
+
+---
