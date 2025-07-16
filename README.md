@@ -13,18 +13,20 @@ The circuit reacts with different colored LEDs and a buzzer depending on the rea
 
 ---
 
-## 🧩 Components Used
+## ⚙️ Components Used
 
-- Arduino Uno  
-- MQ-2 Gas Sensor  
-- IR Obstacle Sensor  
-- Red LED (Gas Alert)  
-- Green LED (IR Detection)  
-- Blue LED (Gas Normal)  
-- Buzzer  
-- Resistors (220–330Ω)  
-- Breadboard + Jumper wires  
-
+| Component            | Description                        |
+|----------------------|------------------------------------|
+| Arduino Uno          | Microcontroller board              |
+| MQ-2 Gas Sensor      | Detects flammable gas levels       |
+| IR Obstacle Sensor   | Detects nearby objects             |
+| Red LED              | Turns ON when gas is detected      |
+| Blue LED             | Turns ON when no gas is present    |
+| Green LED            | Indicates IR object detection      |
+| Buzzer               | Audible alert for gas detection    |
+| Resistors (1KΩ)      | Used with LEDs                     |
+| Breadboard           | For circuit prototyping            |
+| Jumper wires         | For connections                    |
 ---
 
 ## ⚙️ Behavior Summary
