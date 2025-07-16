@@ -1,6 +1,6 @@
 # Analog and Digital Sensors – Electronics Track
 
-![Circuit Screenshot](circuit_sensors.png)
+![Circuit Screenshot](circuit_sensors.jpg)
 
 ## 📌 Description
 
