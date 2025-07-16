@@ -6,7 +6,7 @@ This repository contains two Arduino-based circuits demonstrating smart energy-s
 
 ## 📦 Project Structure
 
-### 1️⃣ [Motion-Controlled LED System](./MotionControlledLED)
+### 1️⃣ [Motion-Controlled LED System](MotionControlledLED/)
 A motion-activated LED system using a PIR sensor and manual activation button. The LED:
 
 - Turns ON for 7 seconds upon pressing the button.
@@ -20,7 +20,7 @@ A motion-activated LED system using a PIR sensor and manual activation button. T
 
 ---
 
-### 2️⃣ [Analog and Digital Sensors Simulation](./AnalogAndDigitalSensors)
+### 2️⃣ [Analog and Digital Sensors Simulation](AnalogAndDigitalSensors/)
 This task compares how analog and digital sensors behave in response to stimuli. Each sensor controls an LED to demonstrate:
 
 - Analog sensor behavior (e.g., variable light intensity or range detection).
