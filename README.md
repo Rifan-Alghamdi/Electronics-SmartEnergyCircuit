@@ -2,6 +2,12 @@
 
 This project simulates a smart electronic system designed to conserve battery power efficiently. Built with Arduino, it utilizes a motion sensor and a manual activation button to control an LED, demonstrating core concepts in low-power smart systems.
 
+
+## 🔌 Circuit Overview
+
+> 📸 *Circuit Schematic Preview:*  
+![Circuit](MotionControlledLED.jpg)
+
 ---
 
 ## 📝 Description
@@ -32,18 +38,6 @@ This smart system works in the following steps:
 | Resistor 330Ω       | 2        |
 | Breadboard          | 1        |
 | Jumper Wires        | As needed |
-
----
-
-## 🔌 Circuit Overview
-
-- Button Pin → Digital Pin 7
-- PIR Sensor Output → Digital Pin 2
-- LED → Digital Pin 13 (with 330Ω resistor)
-- Button is connected with a 10kΩ pull-down resistor
-
-> 📸 *Circuit Schematic Preview:*  
-![Circuit](MotionControlledLED.jpg)
 
 ---
 
