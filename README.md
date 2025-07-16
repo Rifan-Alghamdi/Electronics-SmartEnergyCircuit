@@ -4,7 +4,7 @@ This repository contains two separate circuits designed to demonstrate intellige
 
 ## 🧠 Contents
 
-# 1️⃣ [Motion-Controlled LED System](./MotionControlledLED/)
+# 1️⃣ -- [ Motion Controlled LED](./MotionControlledLED/)
 - A system that detects motion using a PIR sensor and powers off automatically after a short timeout to conserve energy.
 
 ## 🔌 Circuit Overview
