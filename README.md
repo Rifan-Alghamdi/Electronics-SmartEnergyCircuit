@@ -16,7 +16,7 @@ A motion-activated LED system using a PIR sensor and manual activation button. T
 > ⚡ Purpose: Demonstrates intelligent power control using motion sensing.
 
 📸 Circuit Preview  
-![Circuit](MotionControlledLED.jpg)
+![Circuit](MotionControlledLED.png)
 
 ---
 
