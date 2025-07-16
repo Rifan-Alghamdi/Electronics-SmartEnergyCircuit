@@ -9,7 +9,7 @@ This repository contains two separate circuits designed to demonstrate intellige
 
 ## 🔌 Circuit Overview
 
-![Circuit](MotionControlledLED.jpg)
+![Circuit](MotionControlledLED.png)
 
 
 ### 2️⃣ [Analog and Digital Sensors Simulation](./Task2-AnalogAndDigitalSensors)
