@@ -1,6 +1,6 @@
 # 🔌 Electronics – Smart Energy Saving Circuits
 
-This repository contains two Arduino-based circuits demonstrating smart energy-saving behavior and sensor-based control logic. Each circuit is designed with simplicity and practical application in mind.
+This repository contains two Arduino-based circuits demonstrating smart energy-saving behavior and sensor-based control logic.
 
 ---
 
