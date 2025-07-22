@@ -6,12 +6,6 @@ The repository is organized into two subfolders (sub-repositories), each represe
  • Motion-Controlled-LED-System/ – Smart motion-triggered lighting.
  • Analog-Digital-Sensors-Simulation/ – Comparison of analog and digital sensor inputs
 ---
-## 🧠 Task 1: Motion-Controlled LED System  
-🔗 [Click here to view Task 1 folder](./1-MotionControlledLED)
-
-## 📊 Task 2: Analog & Digital Sensors Simulation  
-🔗 [Click here to view Task 2 folder](./2-Analog-Digital-Sensors-Simulation)
-## 📦 Project Structure
 
 # 1️⃣ [Motion-Controlled LED System]
 A motion-activated LED system using a PIR sensor and manual activation button. The LED:
