@@ -79,7 +79,7 @@ This task compares how analog and digital sensors behave in response to stimuli.
 ![Circuit](AnalogDigitalSensors.png)
 ---
 
-## 🧠 Code
+## 💻 Arduino Code
 
 ```cpp
 int redLed = 12;
