@@ -2,7 +2,7 @@
 
 This repository presents two practical Arduino-based projects focused on smart energy-saving and sensor-controlled circuits.
 Each project demonstrates how electronic systems can be made more intelligent and efficient using sensors, timers, and conditional logic.
-🔧 The repository is organized into two subfolders (sub-repositories), each representing a separate task:
+The repository is organized into two subfolders (sub-repositories), each representing a separate task:
  • Motion-Controlled-LED-System/ – Smart motion-triggered lighting.
  • Analog-Digital-Sensors-Simulation/ – Comparison of analog and digital sensor inputs.
 ---
